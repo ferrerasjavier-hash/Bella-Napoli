@@ -1,0 +1,15 @@
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.AssemblyInfoInputs.cache
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.AssemblyInfo.cs
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.csproj.CoreCompileInputs.cache
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.sourcelink.json
+/workspaces/Bella-Napoli/bin/Debug/net10.0/BellaNapoli
+/workspaces/Bella-Napoli/bin/Debug/net10.0/BellaNapoli.deps.json
+/workspaces/Bella-Napoli/bin/Debug/net10.0/BellaNapoli.runtimeconfig.json
+/workspaces/Bella-Napoli/bin/Debug/net10.0/BellaNapoli.dll
+/workspaces/Bella-Napoli/bin/Debug/net10.0/BellaNapoli.pdb
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.dll
+/workspaces/Bella-Napoli/obj/Debug/net10.0/refint/BellaNapoli.dll
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.pdb
+/workspaces/Bella-Napoli/obj/Debug/net10.0/BellaNapoli.genruntimeconfig.cache
+/workspaces/Bella-Napoli/obj/Debug/net10.0/ref/BellaNapoli.dll
