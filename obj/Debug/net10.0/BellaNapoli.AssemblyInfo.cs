@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BellaNapoli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26befed7db7b8ac72e2d369021a448a7a8a57ab6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5560e05682ef357e116207e2b99692f09f1bae7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BellaNapoli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BellaNapoli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
